@@ -1,7 +1,7 @@
 ,Shirt,Book,Surfboard,Short,Phone
-Pierre,,,1,1,
-Ron,1,1,,,
-Andrea,1,1,,,
-David,,,1,1,
-Cesar,,1,,,1
+Pierre,0,0,1,1,0
+Ron,1,1,0,0,0
+Andrea,1,1,0,0,0
+David,0,0,1,1,0
+Cesar,0,1,0,0,1
 Paula,1,1,1,1,1
